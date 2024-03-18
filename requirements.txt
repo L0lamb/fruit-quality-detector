@@ -1,0 +1,22 @@
+# python3 -m venv .venv
+# .venv\Scripts\activate.bat
+# pip install -r requirements.txt
+
+counterfit
+counterfit_shims_grove
+Werkzeug==2.2.2
+counterfit_shims_picamera
+azure-cognitiveservices-vision-customvision
+counterfit-shims-rpi-vl53l0x
+Flask
+tensorflow
+Pillow
+numpy
+flask_cors
+opencv-python
+azure-iot-device
+azure-functions
+azure-iot-hub # python3 -m pip install azure_iot_hub
+
+
+# azurite --location azurite
