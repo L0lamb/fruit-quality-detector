@@ -8,8 +8,6 @@
 <br>
 
 
-* demos
-    - [YouTube video](https://youtu.be/D46fWw7d_RQ?si=arvUlMVL0chDUR-v)
 
 
 * Azure services
